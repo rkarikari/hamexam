@@ -22,6 +22,9 @@
 
 ---
 
+## Screenshots
+![Alt text](https://raw.githubusercontent.com/rkarikari/hamexam/main/images/hamexam.gif)
+
 ## Features
 
 | Feature | Details |
