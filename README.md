@@ -57,9 +57,9 @@ When you open HamExam you land on the **Home Screen**:
 │  AMATEUR RADIO LICENSE SYSTEM   │
 │  FCC Question Pool · 2022–2026  │
 │ ─────────────────────────────── │
-│  📡 TECHNICIAN   ████░░░░  40%  │
-│  🌐 GENERAL      ██░░░░░░  20%  │
-│  🛰️  AMATEUR EXTRA░░░░░░░░   0%  │
+│  📡 TECHNICIAN   ████     40%  │
+│  🌐 GENERAL      ██       20%  │
+│  🛰️  AMATEUR EXTRA ░░      0%  │
 │ ─────────────────────────────── │
 │  YOUR STATISTICS                │
 │  0 answered · 0 correct · —%    │
@@ -206,7 +206,7 @@ When connected to the internet, the app contacts only the services needed for op
 
 © R.N.K · 9G5AR · RadioSport. All rights reserved.
 
-FCC question pool data is public domain (US Government). App code and design are proprietary.
+FCC question pool data is public domain .
 
 ---
 
